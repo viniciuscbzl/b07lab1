@@ -13,5 +13,3 @@ Methods:
 P.add(Polynomial B) \\ add polynomials P and B
 P.evaluate(double x) \\ evaluate P(x)
 P.hasRoot(y) \\ dertermines if P(y)=0
- 
-
