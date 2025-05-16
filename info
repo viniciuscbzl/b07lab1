@@ -1,1 +1,17 @@
-* info about cscb07 first lab1 - tbd
+CSCB07 Lab 01
+
+In this lab I created a class called Polynomial with one field, two constructors and three methods:
+
+Field:
+Polynomial P;
+
+Constructor:
+Polynomial P = new Polynomial();
+Polynomial P = new Polynomial(double []A);
+
+Methods:
+P.add(Polynomial B) \\ add polynomials P and B
+P.evaluate(double x) \\ evaluate P(x)
+P.hasRoot(y) \\ dertermines if P(y)=0
+ 
+
